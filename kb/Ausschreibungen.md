@@ -41,7 +41,7 @@ Die dritte Ausschreibungsart ist die Freihändige Vergabe bzw. das Verhandlungsv
 
 
 # Ausschreibungen in der Privatwirtschaft
-In der Privatwirtschaft sind Ausschreibungen, im Gegensatz zu öffentlichen Ausschreibungen, keinen strikten gesetzlichen Formalitäten untergeordnet. Aus diesem Grund gibt es sehr viele verschieden varianten von Ausschreibungen. Die Bekanntesten werden nun im Folgenden genannt und kurz erläutert[^2]:
+In der Privatwirtschaft sind Ausschreibungen, im Gegensatz zu öffentlichen Ausschreibungen, keinen strikten gesetzlichen Formalitäten untergeordnet. Aus diesem Grund gibt es sehr viele verschiedene Varianten von Ausschreibungen. Die Bekanntesten werden nun im Folgenden genannt und kurz erläutert[^2]:
 
 1.	Request for Information (RFI): Es werden zunächst nur Informationen von den verschiedenen Bietern verlangt, meistens antworten die Bewerber mit Listenpreisen. So kann sich ein Überblick über den Markt verschafft werden.
 2.	Request for Quotation (RFQ): Es wird mithilfe des Lastenhefts der genaue Bedarf und die gewünschte Leistung offengelegt. Diese Ausschreibung wird direkt an Unternehmen geschickt, die für den Auftrag bereits in Betracht gezogen wurden.
